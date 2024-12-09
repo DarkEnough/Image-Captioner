@@ -37,8 +37,8 @@ Refer to it for in-depth insights into the model's design and performance evalua
 This project demonstrates the potential of deep learning in bridging the gap between vision and language. 
 While the model generates coherent and grammatically correct captions, its limitations, such as dataset bias and misidentifications, 
 highlight opportunities for improvement. With future enhancements like training on larger datasets and adopting advanced architectures, 
-this system can evolve into a more robust and accurate image captioning solution.
-🤖 Built with TensorFlow and Passion for AI.    
+this system can evolve into a more robust and accurate image captioning solution.  
+🤖 Built with TensorFlow and Passion for AI.      
 🎓 *Developed as part of an academic project to explore the synergy between vision and language.*
 
 
